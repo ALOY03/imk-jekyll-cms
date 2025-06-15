@@ -11,6 +11,10 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 5
+  - name: "Pesan"
+    url: "/pesan/"
+    weight: 6
+
 
 footer:
   - name: "Home"
